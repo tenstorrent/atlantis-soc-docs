@@ -14,6 +14,4 @@ This repository is maintained exclusively by Tenstorrent and does not accept ext
 
 ## License
 
-This project is licensed under the terms in the [LICENSE](LICENSE) file, except where specified.
-
-Documentation and images in this repository are licensed under the terms in [LICENSE-DOCS](LICENSE-DOCS) (Creative Commons Attribution 4.0 International).
+This project is licensed under the terms in the [LICENSE](LICENSE) file.
