@@ -2,7 +2,7 @@
 
 ## Overview
 
-Documentation related to the Atlantis System-on-Chip (SoC) utilizing the TT-Ascalon CPU Cluster.
+Documentation related to the Atlantis System-on-Chip (SoC) utilizing the Ascalon CPU Cluster.
 
 ## Getting Started
 
